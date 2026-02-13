@@ -10,6 +10,7 @@
 6. PyMySQL
 
 📂 Workflow
+
 1️⃣ Data Extraction
 
 Connected Python to MySQL using SQLAlchemy.
