@@ -76,6 +76,7 @@ Data-driven decisions can improve profitability and inventory optimization.
 
 👤 Author
 
-Raghav Sharma
+Raghav Sharma,
+
 Aspiring Data Analyst | SQL | Python | Business Analytics
    
