@@ -11,6 +11,9 @@
 6. PyMySQL
 
 📂 Workflow
+## Dataset
+This dataset was sourced from Kaggle for educational and analytical purposes.
+
 
 1️⃣ Data Extraction
 
