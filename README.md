@@ -64,7 +64,6 @@ Evaluated inventory distribution from a business perspective.
 
 Derived insights that can support pricing and stocking decisions.
 
-
 💼 Business Impact
 
 This project simulates a real-world quick-commerce analysis scenario where:
